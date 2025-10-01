@@ -26,8 +26,8 @@ Many students struggle to grasp basic concepts due to lack of structured guidanc
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/ChadubulaVani/EduLearn.git
+cd EduLearn
 ```
 ### 2. Backend Setup
 cd backend
